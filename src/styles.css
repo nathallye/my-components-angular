@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+/*body > app-root > app-timeline-with-primeng > p-timeline.p-element > div.p-timeline > div.p-timeline-event > div.p-timeline-event-separator > div.p-timeline-event-connector*/
+div.container {
+  margin: 5rem;
+}
+
+div.p-timeline > div.p-timeline-event > div.p-timeline-event-separator > div.p-timeline-event-connector {
+  height: 5px;
+  width: 2em;
+  background-color: rgb(42, 124, 66);
+}
+
+div.p-timeline > div.p-timeline-event > div.p-timeline-event-separator > div.p-timeline-event-marker {
+  border: 4px solid rgb(42, 124, 66);
+}
+
