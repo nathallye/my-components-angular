@@ -2,6 +2,8 @@
 
 ## Angular PrimeNG TimeLine Component
 
+![WhatsApp Image 2023-01-10 at 10 22 58](https://user-images.githubusercontent.com/86172286/211565016-17484606-be37-4ba9-9127-b059bc39491c.jpeg)
+
 Angular PrimeNG é uma estrutura de código aberto com um rico conjunto de componentes de interface do usuário angular nativos que são usados ​​para um ótimo estilo e essa estrutura é usada para criar sites responsivos com muita facilidade.
 
 - Para instalar o PrimeNG vamos rodar o comando seguinte:
