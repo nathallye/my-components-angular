@@ -83,7 +83,7 @@ export class TimelinePrimengComponent implements OnInit {
 - angular.json:
 
 ``` JSON
-...
+//...
 "styles": [
     "node_modules/primeicons/primeicons.css",
     "node_modules/primeng/resources/themes/lara-light-blue/theme.css",
