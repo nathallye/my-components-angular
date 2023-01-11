@@ -1,7 +1,7 @@
 /*body > app-root > app-timeline-with-primeng > p-timeline.p-element > div.p-timeline > div.p-timeline-event > div.p-timeline-event-separator > div.p-timeline-event-connector*/
 
 div.container {
-  margin: 20em;
+  margin: 5rem 10rem 5rem 10rem;
 }
 
 div.p-timeline > div.p-timeline-event > div.p-timeline-event-separator > div.p-timeline-event-connector {

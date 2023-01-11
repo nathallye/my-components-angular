@@ -8,11 +8,13 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { TimelinePrimengComponent } from './components/timeline-primeng';
+import { TimelineComponent } from './components/timeline';
 
 @NgModule({
   declarations: [
     AppComponent,
-    TimelinePrimengComponent
+    TimelinePrimengComponent,
+    TimelineComponent
   ],
   imports: [
     BrowserModule,
